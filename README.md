@@ -4,9 +4,9 @@
 
 * **Installation of:**
 
-  - Anaconda 
-  - Visual Studio Code
-  - Trello
+  - Anaconda: Tool used for Data Science.
+  - Visual Studio Code: Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+  - Trello: Trello keeps track of everything, from the big picture to the minute details.
   - Git Hub 
 
 * **'Python'**
@@ -28,7 +28,11 @@
   - Tuples: 11,"y",7.4
   - Sets: {1,9,3,0}
   - List: ['a','b','c']
-             
+  
+
+ ![Data Types in Python] (https://www.geeksforgeeks.org/python-data-types/)
+
+
 * **Operator Types:** 
   - Arithmetic: +,-,/,%,*
   - Assignement: =,=+,-=,*=,/=,%=
