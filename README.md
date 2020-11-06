@@ -1,4 +1,5 @@
 ### Week-01-in-a-go-
+![My week](https://i1.wp.com/itsareadingthing.com/wp-content/uploads/2019/01/picture_20190106_1550444241350564434401462150.png?resize=550%2C312)
 
 ## Week01 learning with Code Academy Berlin: 
 
