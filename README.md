@@ -125,4 +125,4 @@ i is now 4
 print("done")
 ```
 
-![Thank You](https://image.shutterstock.com/image-vector/thank-you-hand-drawn-lettering-260nw-780491263.jpg)
+![Thank You](https://image.shutterstock.com/image-vector/thank-you-colorful-vector-mixed-260nw-1623314314.jpg)
