@@ -30,7 +30,7 @@
   - List: ['a','b','c']
   
 
- ![Data Types in Python] (https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg)
+ ![Data Types in Python](https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg)
 
 
 * **Operator Types:** 
@@ -123,3 +123,5 @@ i is now 4
     print(i)
 print("done")
 ```
+
+![Thank You](https://image.shutterstock.com/image-vector/thank-you-hand-drawn-lettering-260nw-780491263.jpg)
