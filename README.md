@@ -30,7 +30,7 @@
   - List: ['a','b','c']
   
 
- ![Data Types in Python] (https://www.geeksforgeeks.org/python-data-types/)
+ ![Data Types in Python] (https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg)
 
 
 * **Operator Types:** 
