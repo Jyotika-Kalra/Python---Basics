@@ -1,6 +1,6 @@
 ### Week-01-in-a-go-
 
-## How did Week 01 looked like with Code Academy Berlin.
+## Week01 learning with Code Academy Berlin: 
 
 * **Installation of:**
 
@@ -117,5 +117,5 @@ i is now 4
     if i % 2 == 1:  # if the number is odd
         break        # immediately exit the loop
     print(i)
-```
 print("done")
+```
