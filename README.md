@@ -34,9 +34,9 @@
 
 
 * **Operator Types:** 
-  - Arithmetic: +,-,/,%,*
-  - Assignement: =,=+,-=,*=,/=,%=
-  - Comparison: ==,!=,<,>,<=,>=
+  - Arithmetic: +, -, /, %, *
+  - Assignement: =, =+, -=, *=, /=, %=
+  - Comparison: ==, !=, <, >, <=, >=
   - Logical: and, or, not
   - Bitwise: ^, <<, >>
   - Identity: is, is not
